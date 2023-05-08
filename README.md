@@ -23,7 +23,8 @@ As a data analyst, I have a strong foundation in data management and analysis. M
 - Regression Techniques
 
 # Social Media:
-https://www.linkedin.com/in/rajeshri-jogi/
+- LinkedIn: https://www.linkedin.com/in/rajeshri-jogi/
+- Medium: https://medium.com/@dsrajeshri
 
 
 
